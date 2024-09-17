@@ -1,0 +1,10 @@
+python client.py --file_path final_properv2.csv --input_dim 14 --num_classes 4
+
+initialclient:
+python client_initial.py --file_path final_properv2.csv --input_dim 14 --num_classes 4
+
+clientuser:
+python client_user.py --input_dim 14 --num_classes 4
+
+therapist command:
+python client_therapist.py --file_path test_data.csv --input_dim 14 --num_classes 4 --is_testing
