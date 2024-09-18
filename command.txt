@@ -1,7 +1,7 @@
-python client.py --file_path final_properv2.csv --input_dim 14 --num_classes 4
+
 
 initialclient:
-python client_initial.py --file_path final_properv2.csv --input_dim 14 --num_classes 4
+python client_initial.py --file_path dataset.csv --input_dim 14 --num_classes 4
 
 clientuser:
 python client_user.py --input_dim 14 --num_classes 4
