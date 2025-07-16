@@ -53,7 +53,7 @@ The global **Federated Learning market** is expected to grow significantly in th
 - **Implementation**: In collaboration with BMW and other automotive companies, Intel is developing decentralized models that allow vehicles to improve their driving algorithms by sharing model updates across a network of connected cars, without sharing raw driving data.
 
 ## Project Overview
-This Project presents a federated learning framework for heart disease prediction using Flower (flwr), where individual users and therapists can participate. Here is an overview and a few suggestions for improvement or clarification:
+This Project presents a federated learning framework for mental health prediction using Flower (flwr), where individual users and therapists can participate. Here is an overview and a few suggestions for improvement or clarification:
 
 ### Structure Overview:
 
